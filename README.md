@@ -1,1 +1,3 @@
-# cardiovascular-disease-detection
+# PROJECT
+## DETECTION OF CARDIOVASCULAR DISEASES USING ENSEMBLE LEARNING WITH RANDOM FOREST ADN XGBOOST
+DATASET USED : https://www.kaggle.com/datasets/mohamedhedidjemaa/ecgmitbit
